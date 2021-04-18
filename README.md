@@ -4,4 +4,4 @@ This project is a clone from https://www.inttegraej.com.br/ . My actual junior e
 
 **Website preview:**
 
-<img src="preview.png" alt="drawing" width="500"/>
+<img src="images/preview.png" alt="drawing" width="500"/>
